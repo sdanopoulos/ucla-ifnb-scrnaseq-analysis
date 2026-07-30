@@ -1,0 +1,10 @@
+*.rds
+*.RData
+*.rda
+*.h5
+*.h5ad
+Data_CellRanger/
+output/
+results/
+.Rhistory
+.DS_Store
