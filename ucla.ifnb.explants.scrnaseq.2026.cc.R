@@ -1,9 +1,9 @@
 #
 # ==============================================================================
-# Title: IFNb Explant Single-Cell RNA-Seq Analysis (Seurat v5)
+# Title: IFNb Explant Single-Cell RNA-Seq Analysis (Seurat 5.3.0)
 # Author: Mariani Lab
 # Date: May 2026
-# R Version: 4.4.3 | Seurat Version: V5
+# R Version: 4.4.3 | Seurat Version: 5.3.0
 # Description: This script performs quality control, normalization, RPCA
 # integration, lineage subclustering, differential-expression analysis, and
 # CellChat cell-cell communication analysis.
