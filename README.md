@@ -72,12 +72,6 @@ Azimuth lung and fetal reference datasets are also required.
 A random seed of 1234 is set at the beginning of the analysis. The script
 writes the complete R session information to `sessionInfo.txt`.
 
-## Data availability
-
-The sequencing data associated with this study are available through the NCBI Gene Expression Omnibus under accession `GSE325181`.
-
-Processed Seurat and CellChat objects are not included in this code repository.
-
 ## License
 
 This code is distributed under the terms stated in the `LICENSE` file.
