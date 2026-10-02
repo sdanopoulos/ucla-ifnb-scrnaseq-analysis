@@ -3,6 +3,8 @@ message: "Please cite this software using the citation below."
 title: "UCLA IFN-beta Prenatal Lung Single-Cell RNA-seq Analysis"
 type: software
 version: 1.0.0
+date-released: 2026-10-02
+doi: "10.5281/zenodo.23108475"
 repository-code: "https://github.com/sdanopoulos/ucla-ifnb-scrnaseq-analysis"
 license: MIT
 

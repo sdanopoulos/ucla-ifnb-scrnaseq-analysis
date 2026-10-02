@@ -78,5 +78,10 @@ This code is distributed under the terms stated in the `LICENSE` file.
 
 ## Citation
 
-Citation information is provided in `CITATION.cff`. A permanent DOI for
-version 1.0.0 will be provided through Zenodo.
+This analysis code is permanently archived in Zenodo:
+
+Danopoulos S, Chu C. *UCLA IFN-beta Prenatal Lung Single-Cell RNA-seq
+Analysis*. Version 1.0.0. Zenodo. 2026.
+[https://doi.org/10.5281/zenodo.23108475](https://doi.org/10.5281/zenodo.23108475)
+
+Additional citation metadata is provided in `CITATION.cff`.
